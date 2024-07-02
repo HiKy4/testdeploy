@@ -27,4 +27,4 @@ tzdata==2024.1
 virtualenv==20.26.2
 virtualenvwrapper-win==1.2.7
 wheel==0.43.0
-winkerberos==0.10.0
+
