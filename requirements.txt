@@ -1,9 +1,8 @@
 asgiref==3.8.1
 cramjam==2.8.3
 distlib==0.3.8
-Django==5.0.6
+Django
 djangotoolbox==1.8.0
-
 dnspython==2.6.1
 docopt==0.6.2
 extratools==0.8.2.1
@@ -16,7 +15,7 @@ pymongo==4.7.3
 python-snappy==0.7.1
 pytz==2024.1
 sortedcontainers==2.4.0
-sqlparse==0.5.0
+sqlparse
 toolz==0.12.1
 tzdata==2024.1
 virtualenv==20.26.2
